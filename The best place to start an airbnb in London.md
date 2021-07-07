@@ -15,8 +15,8 @@ We will be collecting data from following sources:
 
 Collect data of London that contains borough, neighborhoods by scraping Wikipedia.
 Data source: Wikipedia
-We are going to get longtitude and latitude for each neighborhoods by using geocoder.
-We are going to go through each of the neighborhoods to get number of attractions, number of restaurants in a 10km radius. 
+We are going to get longtitude and latitude for each neighborhoods. 
+We are going to go through each of the neighborhoods to get number of venues in a 1km radius. 
 Data source: foursquare API
 Get airbnb listing data of London including ID, address, Neighborhood, price per night, number of guests accomodates. 
 Data source: http://insideairbnb.com
